@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuigiFerronatto <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
+<h1> 👋 Hi, I’m @LuigiFerronatto </h1>
 - 👀 I’m interested in building interactive Projects, ChatBot Development, 
 - 🌱 I’m currently learning C# and integrating LLMs to ChatBots + Python NLTK
 - 📫 How to reach me:
