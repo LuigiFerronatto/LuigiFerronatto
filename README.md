@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m @LuigiFerronatto </h1>
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" /> Hi, I’m @LuigiFerronatto </h1>
 - 👀 I’m interested in building interactive Projects, ChatBot Development, 
 - 🌱 I’m currently learning C# and integrating LLMs to ChatBots + Python NLTK
 - 📫 How to reach me:
