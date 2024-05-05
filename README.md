@@ -1,5 +1,33 @@
-#  Hi, I’m [@LuigiFerronatto](https://www.instagram.com/)
---- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&duration=500&pause=500&color=7242F7&vCenter=true&multiline=true&repeat=false&random=true&width=500&height=200&lines=ChatBot+Developer;UX%2FUI+Studant;JavaScript+Full-Stack;Front-end+Developer;Back-end+Developer;Mid-Level+System+Analyst)](https://git.io/typing-svg)
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=500&pause=500&color=47007D&vCenter=true&multiline=true&random=false&width=1000&height=250&lines=HTML+%7C+CSS+%7C+JavaScript;React.js+%7C+Vue.js+%7C+Next.js;Node.js+%7C+Express.js+%7C+Django;SQL+%26+NoSQL+%7C+MongoDB+%7C+MySQL+%7C+SQLite;Restful+APIs+%7C+Postman+%7C+Insomnia;Sass+%7C+Bootstrap+%7C+Tailwind+CSS;Vercel+%7C+Netlify+%7C+Heroku)](https://git.io/typing-svg)
+# Hi, I’m [LuigiFerronatto](https://www.instagram.com/)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&duration=500&pause=500&color=7242F7&vCenter=true&multiline=true&repeat=false&random=true&width=500&height=250&lines=ChatBot+Developer;UX%2FUI+Studant;JavaScript+Full-Stack;Front-end+Developer;Back-end+Developer;Mid-Level+System+Analyst)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=1000&duration=500&pause=500&color=12001F&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=250&lines=JavaScript;React.js+%7C++Vue.Js+%7C+Next.js;SQL+%26+NoSQL+%7C+SQLlite+%7C+MongoDB+%7C+MySQL+;Restful+APIS+%7C+Postman+%7C+Insomnia;Vercel+%7C+...)](https://git.io/typing-svg)
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://www.oracle.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![next js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Node js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Vue js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://www.skype.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor
